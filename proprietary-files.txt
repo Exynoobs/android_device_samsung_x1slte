@@ -33,8 +33,9 @@ vendor/etc/mixer_gains.xml
 vendor/etc/nfc/sec_s3nsen4_hwreg.bin
 vendor/etc/nfc/sec_s3nsen4_swreg.bin
 
-## RIL
--vendor/lib64/libsec-ril.so
+## RIL - G981BXXSCDUJ5
+-vendor/lib64/libsec-ril.so|9bcaa0977c1fecfc9e38da36379c640b2e9ac850
+-vendor/lib64/libsec-ril-dsds.so|b5ccc85c955a5f79ab3267d5ea95919541678bfd
 
 ## Sensors
 vendor/etc/sensors/hals.conf
