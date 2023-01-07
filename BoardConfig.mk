@@ -31,3 +31,6 @@ TARGET_SCREEN_DENSITY := 420
 
 ## Kernel
 TARGET_KERNEL_CONFIG := exynos9830-x1slte_defconfig
+
+## Properties
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
