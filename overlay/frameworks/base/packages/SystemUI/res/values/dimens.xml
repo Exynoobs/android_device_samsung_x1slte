@@ -16,9 +16,6 @@
 */
 -->
 <resources>
-    <!-- Adjust the icon padding in status bar for rounded corners -->
-    <dimen name="rounded_corner_content_padding">25dp</dimen>
-
     <!-- Location on the screen of the center of the physical power button. -->
     <dimen name="physical_power_button_center_screen_location_y">990px</dimen>
 
